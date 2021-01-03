@@ -4,7 +4,7 @@ email:       atarict4@naver.com
 author:      Choi
 description: "One Day, One Commit."
 baseurl:     ""
-url:         "https://jiubee.github.io"
+url:         "https://Jiubee.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
